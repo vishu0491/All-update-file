@@ -1,0 +1,14 @@
+package mystudy;
+
+public class myvar {
+
+	public static void main(String[] args) {
+		String studentName;
+		
+		studentName = "BHagwat";
+		
+		System.out.println(studentName);
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package test;
+
+public class Non_staticMethod {
+
+	public static void main(String[] args) {
+		// classsname objectname= new classname();
+		//to non ststic method---
+
+	}
+	public void display()
+	{
+		System.out.println("hii this is non static display method");
+		
+	}
+
+}

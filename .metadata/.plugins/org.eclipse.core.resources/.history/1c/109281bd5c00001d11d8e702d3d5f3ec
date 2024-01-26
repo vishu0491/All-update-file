@@ -1,0 +1,9 @@
+package kiteTest;
+
+import org.testng.annotations.Test;
+
+public class ValidateKiteUserID {
+  @Test
+  public void f() {
+  }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;my_Selenium/src/kitePOMUsingTestNG&apos;&#x0D;&#x0A;- Original project: &apos;my_Selenium&apos;&#x0D;&#x0A;- Destination element: &apos;my_Selenium/src/kitePOMUsingTestNG&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     kiteAppPOMandExcel.KiteLoginPage.java&#x0D;&#x0A;     kiteAppPOMandExcel.KiteHomePage.java&#x0D;&#x0A;     kiteAppPOMandExcel.KitePinPage.java" description="Copy compilation units" destination="/src&lt;kitePOMUsingTestNG" element1="/src&lt;kiteAppPOMandExcel{KiteLoginPage.java" element2="/src&lt;kiteAppPOMandExcel{KiteHomePage.java" element3="/src&lt;kiteAppPOMandExcel{KitePinPage.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1657088471165" units="3" version="1.0"/>
+</session>

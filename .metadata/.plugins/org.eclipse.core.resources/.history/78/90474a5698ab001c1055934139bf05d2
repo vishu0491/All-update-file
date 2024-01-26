@@ -1,0 +1,11 @@
+package mystudy;
+
+public class myvar {
+
+	public static void main(String[] args) {
+		String studentName;
+		System.out.println(studentName);
+
+	}
+
+}

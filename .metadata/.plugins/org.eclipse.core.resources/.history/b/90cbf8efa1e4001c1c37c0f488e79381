@@ -1,0 +1,24 @@
+package collection;
+
+import java.util.Vector;
+
+public class VectorStudy {
+
+	public static void main(String[] args) {
+		
+		Vector v=new Vector();
+		v.add(100);//0
+		v.add("Velocity");//1
+		v.add(88.2f);//2
+		v.add(100);//3
+		v.add(null);//4
+		v.add(null);//5
+		
+		System.out.println(v);
+		System.out.println(v.size());
+		
+		
+
+	}
+
+}

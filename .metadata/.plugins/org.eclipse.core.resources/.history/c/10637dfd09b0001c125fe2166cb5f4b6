@@ -1,0 +1,23 @@
+package mystudy;
+
+public class FLOATSTUDY {
+	//1.variable declaration 
+	
+	double b;
+	
+	// 2. assign value 
+	
+	b=12985624662566;
+	
+	//3.usages 
+	
+	System out println ("value of b is +number");
+	
+	
+	
+	
+	
+	
+	
+
+}

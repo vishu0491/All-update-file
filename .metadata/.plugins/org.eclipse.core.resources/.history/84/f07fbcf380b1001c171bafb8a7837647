@@ -1,0 +1,20 @@
+package methods;
+
+public class StaticMethodStudy {
+
+	public static void main(String[] args) {
+		
+			myMethod();// calling static regular method from 
+			
+			
+		}
+
+		public static void mrthod()
+		{
+			
+			System.out.println("Hi this is method");
+			
+
+
+	}
+}
